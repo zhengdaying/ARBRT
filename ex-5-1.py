@@ -8,4 +8,4 @@ def matts(n):
             tbedge(n)
         else:
             lredge(n)
-matts(5)
+matts(4)
